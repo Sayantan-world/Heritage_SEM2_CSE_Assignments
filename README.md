@@ -7,3 +7,5 @@ Day 0 (Basic Linux Commands - NOT UPLOADED)
 Day 1 (Basic Problem Solving -> complete)
 
 Day 2 (Control Statements -> complete)
+
+Day 3 (Loops - 1 -> complete)
