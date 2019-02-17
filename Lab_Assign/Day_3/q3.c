@@ -14,7 +14,7 @@ int main()
 {
 
         int n,x;
-        int i,j,fact=1;;
+        int i,j,fact=1;
         float sum=1;
         printf("\nEnter the number of terms and value of x : ");
         scanf("%d%d",&n,&x);
