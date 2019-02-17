@@ -17,7 +17,7 @@ int main()
         float r;
         printf("\nEnter the radius of circle : ");
         scanf("%f",&r);
-        r=(int)r;//explicit typecasting
+        //r=(int)r;
         if (r < 0)
                 printf("\nCircle not formed\n");
         else if(r==0)
