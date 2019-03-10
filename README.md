@@ -2,7 +2,7 @@
 
 **This repository contains the lab and home assignment of SEM 2 (CSE)**
 
-**FILE NAME**     **CONTENT**
+**FILE NAME** ------------- **CONTENT**
               
 Day 0 ------------ DAY 1 -- (Basic Linux Commands - NOT UPLOADED)
              
