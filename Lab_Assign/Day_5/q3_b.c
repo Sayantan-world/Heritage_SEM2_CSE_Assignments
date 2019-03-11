@@ -15,7 +15,7 @@
 #include <math.h>
 
 /*Prototypes----------------*/
-int decitobin(int);
+int dectobin(int);
 int count(int);
 /*-------------------------*/
 /*________________Decimal to Binary_________________*/
