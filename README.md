@@ -15,3 +15,5 @@ Day_3 ------------ DAY 4 -- (Loops - 1 -> complete)
 Day_4 ------------ Day 5 -- (Loops - 2 -> complete)
               
 Day_5 ------------ Day 6 -- (Basics of C Functions) --LAB Assign uploaded , Home assign Pending
+
+Day_6 ------------ Day 10 -- (Recursive Functions) --LAB Assign uploaded , Home assign Pending
