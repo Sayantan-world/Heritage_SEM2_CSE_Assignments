@@ -19,7 +19,7 @@ int main()
         printf("Enter two positive integers: ");
         scanf("%d %d", &n1, &n2);
 
-        if(n1>0 && n2>0)
+        if(n1>=0 && n2>=0)
                 printf("\nG.C.D of %d and %d is %d\n", n1, n2, gcd(n1,n2));
         else
                 printf("\nINVALID\n");
