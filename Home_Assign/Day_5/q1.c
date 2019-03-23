@@ -20,7 +20,7 @@ void findDifference(int a[], int size)
 {
         int i,flag=1,count=1;
         size=size-1;
-        while(flag && size!=0)
+        while(flag && count<=3)
         {       flag=0;
                 printf("D%d : ",count);
                 for (i = 0; i < size; i++)
