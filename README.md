@@ -17,3 +17,7 @@ Day_4 ------------ Day 5 -- (Loops - 2 -> complete)
 Day_5 ------------ Day 6 -- (Basics of C Functions -> complete)
 
 Day_6 ------------ Day 10 -- (Recursive Functions) -> complete)
+
+Day_7 ------------ Day 7 -- (One Dimensional Array) -> complete)
+
+Day_8 ------------ Day 8 -- (Multidimensional Array) -> complete)
