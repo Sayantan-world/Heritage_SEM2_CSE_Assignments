@@ -24,4 +24,4 @@ Day_8 ------------ Day 8 -- (Multidimensional Array) -> complete)
 
 Day_9 ------------ Day 9 -- (Character Array/ String) -> complete)
 
-Day_10 ------------ Day 11 -- (Pointers) -> Home Assignment Pending)
+Day_10 ------------ Day 11 -- (Pointers) -> complete)
