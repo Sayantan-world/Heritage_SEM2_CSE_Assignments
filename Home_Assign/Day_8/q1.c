@@ -28,7 +28,7 @@ int main()
         // Product matrix
         for (c = 0; c < m; c++)
         {
-                for (d = 0; d < n; d++)
+                for (d = 0; d < m; d++)
                 {
                         for (k = 0; k < n; k++)
                         {
