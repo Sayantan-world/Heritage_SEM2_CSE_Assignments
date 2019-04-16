@@ -29,17 +29,17 @@ int main()
 {
         char text[1000];
         char *ptr=text;
-        int i=0,asc[1000],j=0,cal,rem;
+        int i=0,asc[1000],j=0,cal,rem,r;
 
         srand(time(NULL));
-
+        r=rand();
         printf("Enter the text: ");
         scanf("%[^\n]s",ptr);
 
         while(*ptr!='\0')
         {
                 asc[i]=(int)*ptr;
-                asc[i]=asc[i]+rand();
+                asc[i]=asc[i]+r;
                 if(asc[i]>N2)
                 {
                         cal=asc[i]/N2;
