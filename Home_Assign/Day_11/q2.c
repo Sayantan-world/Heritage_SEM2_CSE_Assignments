@@ -42,7 +42,7 @@ int main()
 
                 if(choice==1)
                 {
-                        fp=fopen("Directory.txt","a");
+                        fp=fopen("Directory.txt","a+");
                         if(fp == NULL)
                         {
                                 printf("Error!");
