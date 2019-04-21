@@ -3,11 +3,28 @@
    DATE : 21.04.2019
 
    QUESTION :
-   Define a structure named employee to store information of an employee (empNo, name,
-   department, basicPay, DA, HRA and grossSalary). Write a program, which will take as
-   input the empNo, name, department, basicPay for several employees from a file named
-   I_P.txt. The program will calculate the DA, HRA and total for each employee and
-   display the details of the employee having the highest gross salary in a file O_P.txt
+   Develop a simple telephone directory which saves your friends contact information in a
+   file named directory.txt. The program should have a menu similar to the following:
+   Menu
+   1 - Add new friend.
+   2 - Display contact info.
+   3 - Exit.
+   Enter your preference:
+
+   When you press 1 it should request you to enter the following data:
+   New friend info
+   Name: Saman
+   Phone no.: 011-2123456
+   e-mail: saman@cse.heritageit.edu
+   After adding new contact information it should again display the menu.
+   When you press 2 it should display all the contact information stored in the
+   directory.txt file as follows:
+   Contact Info
+   Name              Phone No.                  E-mail
+   Kamala           033-9876543          kamala@cse.heritageit.edu
+   Avinash          022-8765432          avinash@cse.heritageit.edu
+   Saman            011-2123456          saman@cse.heritageit.edu
+
  */
 #include <stdio.h>
 #include <stdlib.h>
