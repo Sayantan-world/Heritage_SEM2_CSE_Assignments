@@ -25,3 +25,5 @@ Day_8 ------------ Day 8 -- (Multidimensional Array) -> complete)
 Day_9 ------------ Day 9 -- (Character Array/ String) -> complete)
 
 Day_10 ------------ Day 11 -- (Pointers) -> complete)
+
+Day_11 ------------ Day 12 -- (Structures and Unions and Files) -> complete)
