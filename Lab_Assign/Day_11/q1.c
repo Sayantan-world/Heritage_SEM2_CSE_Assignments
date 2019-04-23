@@ -51,9 +51,9 @@ int main()
                 {
                         if (s[d].tot < s[d+1].tot)
                         {
-                                swap = s[i];
-                                s[i] = s[i+1];
-                                s[i+1] = swap;
+                                swap = s[d];
+                                s[d] = s[d+1];
+                                s[d+1] = swap;
                         }
                 }
         }
