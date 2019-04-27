@@ -1,6 +1,6 @@
 /*
    AUTHOR : Sayantan Pal
-   DATE : 15.14.2019
+   DATE : 15.04.2019
 
    QUESTION :
    Write a program to read in a line of text and count the number of lines, words and
