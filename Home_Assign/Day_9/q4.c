@@ -3,7 +3,7 @@
    DATE : 15.04.2019
 
    QUESTION :
-   Write a program to count the number of vowels and digits in a given sing
+   Write a program to count the number of vowels and digits in a given string
  */
 
  #include <stdio.h>
